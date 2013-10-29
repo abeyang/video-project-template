@@ -15,4 +15,16 @@ Video Project Template (VPT) adheres to best practices for folder conventions:
 	- (sound effects would go here, too)
 - **/Output** - final renders
 
-blah
+## Project Structure
+
+::To-do::
+
+## Process
+
+::To-do::
+
+## Tips + Tricks
+
+What to do if you're using an outdated version of Premiere
+
+::To-do::
