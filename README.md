@@ -17,7 +17,7 @@ Video Project Template (VPT) adheres to best practices for folder conventions:
 
 ## Filename Guide
 
-[Scene]-[Person]-[Take]-[Camera].mov
+\[Scene]-\[Person]-\[Take]-\[Camera].mov
 
 A few examples (A/B/C are different scenes):
 
@@ -26,7 +26,18 @@ A few examples (A/B/C are different scenes):
 
 ## Project Structure
 
-::To-do::
+Similar to the folder structure, with minor differences (highlighted below)
+
+- ASSETS
+	- Titles - for text and title layers
+- AUDIO
+	- Background Music
+- FOOTAGE - original footage
+- MERGED SEQUENCES - when original DSLR footage is combined with pristine audio, those clips would go here
+- PROJECT
+	- Backups
+
+Under **PROJECT**, there is a blank sequence template for you to use (set at 1080p, 23.976 fps.
 
 ## Process
 
