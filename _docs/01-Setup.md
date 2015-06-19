@@ -1,6 +1,6 @@
-# Video Project Template
+# First Ten Yards: Setting Up
 
-Basic template for video projects
+Using this project template for video projects
 
 ## Folder Structure
 
