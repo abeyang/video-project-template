@@ -14,4 +14,4 @@ How to use the video project template
 The final polish before it goes live!
 
 [1]:	_docs/01-Setup.md
-[2]:	10-Final_Checklist
+[2]:	10-Final_Checklist.md
