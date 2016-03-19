@@ -22,3 +22,18 @@ The final polish before it goes live!
 		- Remove unnecessary / redundant dialogue (**have to listen!**)
 		- Magic B-Roll edits
 		- Speed up 110% + (PitchShifter -\> Fine Tune -\> -40cents)
+
+# Tips & Tricks
+
+- cut vs dissolve
+	- jump cuts: [when to use][1] and when not to
+	- cross vs film dissolve
+- secondary cameras
+	- 
+- key frames
+	- audio
+	- video
+- Kens Burns effect
+- merge audio
+
+[1]:	http://www.iamsecond.com/seconds/jim-munroe/
